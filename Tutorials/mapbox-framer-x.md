@@ -29,7 +29,7 @@ There are a few resources you’ll need before you get started:
 
 ## Install the Mapbox component
 
-This section assumes that you have a working knowledge of how to navigate and use Framer X. If you need help with Framer X, visit the [Framer documentation site](https://framer.com/docs/).
+This section assumes that you have a working knowledge of how to navigate and use Framer X. If you need helP with Framer X, visit the [Framer documentation site](https://framer.com/docs/).
 
 1. In Framer X, click on the **Store** icon.
 1. Search for `Mapbox` in the search bar.
