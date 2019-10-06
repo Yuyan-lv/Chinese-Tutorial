@@ -54,7 +54,7 @@ contentType: tutorial
 
 ## 上传瓦片集至Mapbox中
 
-在您能从Power BI报告中索引您已经下载的GeoJSON文件之前，您需要将此文件作为一个[瓦片集](/help/glossary/tileset/)上传至Mapbox中。
+在您从Power BI报告中索引您已经下载的GeoJSON文件之前，您需要将此文件作为一个[瓦片集](/help/glossary/tileset/)上传至Mapbox中。
 
 {{
 <Note
@@ -78,7 +78,7 @@ contentType: tutorial
 ![Screenshot showing the New tileset button in Mapbox Studio](/help/img/3rdparty/power-bi-new-tileset.png)3. 在_新的瓦片集_窗口中，您可以点击**选择一个文件**并选择一个文件，或者您可以将您的本地文件直接拖拽到窗口中。
 4. 当您看到一个提示的时候，点击**确认**。
 ![Screenshot showing the Confirm button in the New tileset window in Mapbox Studio](/help/img/3rdparty/power-bi-confirm-tileset-upload.png)
-5. 当文件上传完毕之后，您将会看到一个完成消息。点击消息中的链接，您将可以直接打开新创建的瓦片集的信息页。这个信息页面包含了_瓦片集ID_，_图层名_，以及图层的_属性_。所有的这些信息您都可以在Power BI中索引。
+5. 当文件上传完毕之后，您将会看到一个完成消息。点击消息中的链接，您可以直接打开新创建的瓦片集的信息页。这个信息页面包含了_瓦片集ID_，_图层名_，以及图层的_属性_。所有的这些信息您都可以在Power BI中索引。
 
 您将会在[添加一个瓦片集](#add-a-custom-tileset)这一章中使用以上信息。现在，请打开Power BI。
 
@@ -125,7 +125,7 @@ contentType: tutorial
   title="Alternative workflow: Manual upload"
   imageComponent={<BookImage />}
 >
-  <p>您也可以下从<a href='https://github.com/mapbox/mapboxgl-powerbi'>Mapbox</a>下载<a href='https://github.com/mapbox/mapboxgl-powerbi/raw/master/dist/mapboxGLMap.pbiviz'>最新版本的Mapbox Visual</a>。:</p>
+  <p>您也可以从<a href='https://github.com/mapbox/mapboxgl-powerbi'>Mapbox</a>下载<a href='https://github.com/mapbox/mapboxgl-powerbi/raw/master/dist/mapboxGLMap.pbiviz'>最新版本的Mapbox Visual</a>。:</p>
   <ol>
   <li>点击<strong>载入一个自定义可视化工具</strong>图标（图标为三个小点）然后选择<strong>从文件导入</strong>。</li>
   <li>上传您刚才下载的<a href='https://github.com/mapbox/mapboxgl-powerbi/raw/master/dist/mapboxGLMap.pbiviz'>Mapbox Visual最新版文件</a>。</li>
