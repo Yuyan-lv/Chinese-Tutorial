@@ -44,7 +44,7 @@ Mapbox Visual可以在Power BI程序中作为一个可视化插件使用。此�
 
 {{<Note imageComponent={<BookImage />}>}}
 
-这部分教程将展示如果在Power BI在线版本中使用Mapbox Visual。桌面版的操作流程基本一致，但是界面有所差别。
+这部分教程将展示如何在Power BI在线版本中使用Mapbox Visual。桌面版的操作流程基本一致，但是界面有所差别。
 
 {{</Note>}}
 
